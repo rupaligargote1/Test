@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14959" started-at="2018-10-14T16:13:15Z" finished-at="2018-10-14T16:13:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14959" started-at="2018-10-14T16:13:15Z" finished-at="2018-10-14T16:13:30Z">
+      <class name="pc1.ScreenS">
+        <test-method status="PASS" signature="ASHA()[pri:0, instance:pc1.ScreenS@4cc0edeb]" name="ASHA" duration-ms="14884" started-at="2018-10-14T16:13:15Z" finished-at="2018-10-14T16:13:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ASHA -->
+      </class> <!-- pc1.ScreenS -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
